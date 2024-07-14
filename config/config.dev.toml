@@ -1,0 +1,9 @@
+[server]
+host = "127.0.0.1"
+port = 2421
+
+[linepay]
+url = ""
+api_url = "/v3/payments/request"
+channel_id = ""
+channel_secret = ""
