@@ -12,6 +12,7 @@ from npay_function.pay_handler import PayHandler
 """
 UNIT = "d"
 
+
 class Pay(PayHandler):
 
     def do(self):
